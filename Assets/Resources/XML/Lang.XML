@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <lang name ="English">
+    <name>Guess the color</name>
+    <pause>Pause</pause>
+    <gameover>Game over</gameover>
+    <hiscore>Hiscore: </hiscore>
+    <tutorial1>Look at the color of the ball</tutorial1>
+    <tutorial2>Click ont the tile of the same color</tutorial2>
+    <tutorial3>Understand</tutorial3>
+  </lang>
+
+  <lang name ="Russian">
+    <name>Угадай цвет</name>
+    <pause>Пауза</pause>
+    <gameover>Игра окончена</gameover>
+    <hiscore>Кол-во очков: </hiscore>
+    <tutorial1>Посмотрите на цвет шара</tutorial1>
+    <tutorial2>Нажмите на плитку схожего цвета</tutorial2>
+    <tutorial3>Понятно</tutorial3>
+  </lang>
+  
+</languages>
